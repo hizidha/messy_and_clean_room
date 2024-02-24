@@ -1,3 +1,3 @@
 <h1 align="center"> Messy and Clean Room Classification </h1>
 
-Proyek ini bertujuan untuk mengembangkan model machine learning yang dapat membedakan antara gambar ruangan yang bersih dan ruangan yang berantakan menggunakan framework deep learning Keras dan TensorFlow. Dengan model ini, kita dapat memberikan solusi otomatis untuk memonitor kebersihan ruangan atau mengimplementasikan sistem otomatis yang memberi tahu pengguna saat ruangan mereka menjadi berantakan.
+<p align="justify">Proyek ini bertujuan untuk mengembangkan model machine learning yang dapat membedakan antara gambar ruangan yang bersih dan ruangan yang berantakan menggunakan framework deep learning Keras dan TensorFlow. Dengan model ini, kita dapat memberikan solusi otomatis untuk memonitor kebersihan ruangan atau mengimplementasikan sistem otomatis yang memberi tahu pengguna saat ruangan mereka menjadi berantakan.</p>
